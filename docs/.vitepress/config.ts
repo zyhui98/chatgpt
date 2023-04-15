@@ -8,7 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: '首页', link: '/home' },
+      { text: '首页', link: '/index' },
       { text: 'OpenAI', link: '/openai' },
 
       // {
