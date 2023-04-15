@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: VitePress
+  name: ChatGPT
   text: Vite & Vue powered static site generator.
   tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
   actions:
