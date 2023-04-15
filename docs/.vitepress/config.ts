@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  lang: 'zh-cn',
+  title: 'ChatGPT',
+  description: '打造ChatGPT最新资讯和工具平台.',
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: '首页', link: '/index' },
       { text: 'OpenAI', link: '/openai' },
 
       // {
@@ -28,6 +28,7 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Example', link: '/example' },
+          { text: 'OpenAI', link: '/openai' },
           // ...
         ],
       },
