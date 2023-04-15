@@ -1,6 +1,6 @@
 # VitePress 💙 StackBlitz
 
-hello2
+hello2 word.
 
 ## Powered by Vite
 
