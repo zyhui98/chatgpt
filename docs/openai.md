@@ -22,8 +22,3 @@ OpenAI是一个致力于开发安全和有益的人工智能的公司，它提�
 
 希望本手册能够帮助你快速地开始使用OpenAI的服务，并且解决一些常见的问题。如果你还有其他疑问或者建议，请访问[这里](https://support.openai.com/)获取更多信息和帮助。
 
-源: 与必应的对话， 2023/4/15
-(1) 强化学习系列之翻译OpenAI用户手册(一) - CSDN博客. https://bing.com/search?q=openai+%e5%85%a5%e9%97%a8%e6%89%8b%e5%86%8c.
-(2) Azure OpenAI 服务 - 文档、快速入门、API 参考 - Azure .... https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/.
-(3) OpenAI中文入门：简介 - 知乎. https://zhuanlan.zhihu.com/p/602089899.
-(4) OpenAI强化学习教程发布：新手极度友好，代码简约易懂 - 知乎. https://zhuanlan.zhihu.com/p/49087870.
