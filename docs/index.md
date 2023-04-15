@@ -3,13 +3,13 @@ layout: home
 
 hero:
   name: ChatGPT
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  text: 一网打尽ChatGPT（案例资料)
+  tagline: 共享、协作、持续、稳定
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: OpenAI
+      link: /openai
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/zyhui98/chatgpt
 ---
