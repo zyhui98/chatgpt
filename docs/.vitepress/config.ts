@@ -9,6 +9,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Example', link: '/example' },
+      { text: 'OpenAI', link: '/openai' },
 
       // {
       //   text: 'Dropdown Menu',
