@@ -27,7 +27,6 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
           { text: 'OpenAI', link: '/openai' },
           // ...
         ],
