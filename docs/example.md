@@ -1,6 +1,6 @@
 # VitePress 💙 StackBlitz
 
-hello
+hello2
 
 ## Powered by Vite
 
@@ -9,7 +9,6 @@ VitePress uses Vite under the hood. This means:
 - Instant server start
 - Lightning fast HMR
 - Optimized builds
-
 
 ## Markdown-Centered
 
