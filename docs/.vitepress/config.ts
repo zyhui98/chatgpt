@@ -29,6 +29,7 @@ export default defineConfig({
         items: [
           { text: 'OpenAI', link: '/openai' },
           { text: 'Midjourney', link: '/midjourney' },
+          { text: 'Claude', link: '/claude' },
           // ...
         ],
       },
