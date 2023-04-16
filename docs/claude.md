@@ -1,4 +1,6 @@
-# Claude, Claude+ 和 Claude-instant 的区别
+# Claude入门手册
+
+## Claude, Claude+ 和 Claude-instant 的区别
 
 **Claude** 标准版AI助手,提供基本的语言交互能力,可以回答问题、聊天、提供建议等。  适用于日常交流。 
 
@@ -6,7 +8,7 @@
 
 **Claude-instant** 具有更低时延,更高处理能力的属性。特别适用于实时对话场景,如直播互动、即时消息推送、实时翻译等场景。拥有更快的思维速度和语言生成能力。 
 
-# 如何使用Claude
+## 如何使用Claude
 
 - 打开 [https://slack.com/intl/zh-hk/](https://slack.com/intl/zh-hk/)
 - 用工作邮箱，比如我用的是zhu**@yuanbiguo.com
@@ -19,7 +21,7 @@
 
 最好用的是使用：[https://poe.com/Claude-instant](https://poe.com/Claude-instant)
 
-# 在 Slack 系统中使用这三个 AI 助手的步骤
+## 在 Slack 系统中使用这三个 AI 助手的步骤
 
 1. 在 Slack 底部搜索框输入 **/claude** , **/claude+** 或者 **/claude-instant** 触发相关助手接入对话。 
 
