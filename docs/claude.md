@@ -8,9 +8,9 @@
 
 # 如何使用Claude
 
-- 打开 [slack.com/intl/zh-hk/](slack.com/intl/zh-hk/)
+- 打开 [https://slack.com/intl/zh-hk/](https://slack.com/intl/zh-hk/)
 - 用工作邮箱，比如我用的是zhu**@yuanbiguo.com
-- Slack安装Claude：[www.anthropic.com/index/claude-now-in-slack](www.anthropic.com/index/claude-now-in-slack)
+- Slack安装Claude：[https://www.anthropic.com/index/claude-now-in-slack](https://www.anthropic.com/index/claude-now-in-slack)
 - 点击“add to slack”按钮
 - 点击Claude程序，你就可以在对话框中与它进行聊天了
 - 首次提问需要点击,同意(agree)协议按钮
