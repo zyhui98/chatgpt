@@ -18,6 +18,23 @@ OpenAI是一个致力于开发安全和有益的人工智能的公司，它提�
 - `RateLimitError`: 这意味着你超过了使用频率或者配额的限制。请减少你的请求次数或者等待一段时间后再试。如果你需要更多的资源，请联系OpenAI的销售团队。
 - `TimeoutError`: 这意味着你的请求超时了，没有在规定的时间内得到响应。请检查你的网络连接是否正常，并且是否有其他因素影响了请求速度。如果问题仍然存在，请联系OpenAI的支持团队。
 
+## 常用连接
+分享几个你肯定用得到的openai的几个服务网址：
+
+chatGPT官网：[https://chat.openai.com/](https://chat.openai.com/)
+
+openai api申请地址：[https://platform.openai.com/](https://platform.openai.com/)
+
+GPT plugins申请地址：[https://openai.com/waitlist/plugins](https://openai.com/waitlist/plugins)
+
+GPT4申请地址：[https://openai.com/waitlist/gpt-4-api](https://openai.com/waitlist/gpt-4-api)
+
+GPT2500刀余额申请地址：[https://openai.com/microsoft-for-startups](https://openai.com/microsoft-for-startups)
+
+GPT接口文档：[https://platform.openai.com/docs/api-reference/introduction](https://platform.openai.com/docs/api-reference/introduction)
+
+所有地址我同步更新在导航网站：[https://www.aifuturecome.com/](https://www.aifuturecome.com/)
+
 ## 结束语
 
 希望本手册能够帮助你快速地开始使用OpenAI的服务，并且解决一些常见的问题。如果你还有其他疑问或者建议，请访问[这里](https://support.openai.com/)获取更多信息和帮助。
