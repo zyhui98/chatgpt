@@ -45,11 +45,11 @@ GPT擅长回答问题，但是只能回答它以前被训练过的问题，如�
 
 而嵌入则是每次向ChatGPT发送消息（prompt）的时候，把你自己数据结果带上。
 
-### 嵌入（embedding）实践
+**嵌入（embedding）实践**
 
-问答通常的实现，embedding -> search -> llm，连续语义在第一步就丢失了。
-
-我的方案是在前面，先让 ChatGPT 解释问题，返回关键词，流程变为：explain -> embedding -> search -> llm。
+> 问答通常的实现，embedding -> search -> llm，连续语义在第一步就丢失了。
+>
+> 我的方案是在前面，先让 ChatGPT 解释问题，返回关键词，流程变为：explain -> embedding -> search -> llm。
 
 ## 结束语
 

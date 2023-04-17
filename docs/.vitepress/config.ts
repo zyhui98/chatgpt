@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/index' },
       { text: 'OpenAI', link: '/openai' },
+      { text: '关于', link: '/about' },
 
       // {
       //   text: 'Dropdown Menu',
