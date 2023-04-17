@@ -35,6 +35,22 @@ GPT接口文档：[https://platform.openai.com/docs/api-reference/introduction](
 
 所有地址我同步更新在导航网站：[https://www.aifuturecome.com/](https://www.aifuturecome.com/)
 
+## 没有训练的数据如何提问？
+
+GPT擅长回答问题，但是只能回答它以前被训练过的问题，如果是没有训练过的数据，比如一些私有数据或者最新的数据该怎么办呢？
+
+这种情况下通常有两种办法，一种是微调（fine-tuning），一种是嵌入（embedding）。
+
+微调就是在大模型的数据基础上做二次训练，事先准备好一批prompt-complition（类似于问答Q&A）的数据，生成新的模型，这个模型将会包含微调后的数据。
+
+而嵌入则是每次向ChatGPT发送消息（prompt）的时候，把你自己数据结果带上。
+
+### 嵌入（embedding）实践
+
+问答通常的实现，embedding -> search -> llm，连续语义在第一步就丢失了。
+
+我的方案是在前面，先让 ChatGPT 解释问题，返回关键词，流程变为：explain -> embedding -> search -> llm。
+
 ## 结束语
 
 希望本手册能够帮助你快速地开始使用OpenAI的服务，并且解决一些常见的问题。如果你还有其他疑问或者建议，请访问[这里](https://support.openai.com/)获取更多信息和帮助。
