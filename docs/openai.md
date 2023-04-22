@@ -12,11 +12,15 @@ OpenAI是一个致力于开发安全和有益的人工智能的公司，它提�
 
 在使用OpenAI的服务时，你可能会遇到一些错误或问题。以下是一些常见的错误和解决办法：
 
-- `AuthenticationError`: 这意味着你没有提供正确的API密钥或者你的账号没有权限访问某个服务。请检查你的API密钥是否正确，并且是否已经开通了相应的服务。
-- `RequestError`: 这意味着你的请求有问题，比如参数不合法、格式不正确或者超出了限制。请检查你的请求是否符合[文档](https://docs.openai.com/)中的要求，并且是否在允许的范围内。
-- `EngineError`: 这意味着语言模型出现了问题，比如无法处理你的输入、返回了空值或者出现了内部错误。请检查你的输入是否合理，并且是否符合语言模型的预期。如果问题仍然存在，请联系OpenAI的支持团队。
-- `RateLimitError`: 这意味着你超过了使用频率或者配额的限制。请减少你的请求次数或者等待一段时间后再试。如果你需要更多的资源，请联系OpenAI的销售团队。
-- `TimeoutError`: 这意味着你的请求超时了，没有在规定的时间内得到响应。请检查你的网络连接是否正常，并且是否有其他因素影响了请求速度。如果问题仍然存在，请联系OpenAI的支持团队。
+- `Access denied` ：OpenAI封锁你的IP。就是你当前的魔法节点使用人数过多，烂大街的节点流量异常就会拦截。解决办法：换ip、清除cookie缓存。
+- `The email you provided is not supported.` : QQ、163邮箱不可用；解决办法：更换邮箱，换成谷歌、QQ、outlook。
+- `OpenAI's services are not available in your country` ： 原因：这个是IP不在支持国家范围。解决方法：更换IP就可以了，香港、台湾不可用。推荐美国、印度、菲律宾、阿根廷等。
+- `We ran into an issue while authenticating you` ： 原因：身份验证问题，Oops，一般都是你的IP不干净。跟不支持你国家的提示一样，很多机场的节点就是这样子，多人用了，就会提示这个。
+- `ChatGPT is at capacity right now` ： 原因：ChatGPT高峰使用时段，普通用户会限流，如果你是ChatGPT Plus用户，就不会有这个问题。 解决方法：等待直到ChatGPT服务器压力变小或开通ChatGPT Plus。
+- `This phone number is already linked to the maximum number of accounts` 解决方法：1、使用漂亮国的手机号2、最好不要使用免费手机号，因为羊毛被薅差不多了！选择付费平台一般不会有这个问题sms-activate.org
+- `You’ve made too many phone verification requests` 原因：短时间内尝试验证电话号码的次数过多，解决方法：等 24 小时就会重置了。
+                                               
+
 
 ## 常用连接
 分享几个你肯定用得到的openai的几个服务网址：
