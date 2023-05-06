@@ -9,7 +9,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/index' },
-      { text: 'OpenAI', link: '/openai' },
+      { text: 'AI办公', link: '/office' },
+      { text: '提示词', link: '/prompt' },
+      { text: '场景案例', link: '/scene' },
       { text: '开源项目', link: '/project' },
       { text: '关于', link: '/about' },
 
@@ -32,6 +34,7 @@ export default defineConfig({
           { text: 'OpenAI', link: '/openai' },
           { text: 'Midjourney', link: '/midjourney' },
           { text: 'Claude', link: '/claude' },
+          { text: 'BingChat', link: '/bingchat' },
           // ...
         ],
       },
