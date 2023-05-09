@@ -29,7 +29,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        // text: 'Guide',
+        text: 'ChatGPT使用指南',
         items: [
           { text: 'OpenAI', link: '/openai' },
           { text: 'Midjourney', link: '/midjourney' },
