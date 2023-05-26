@@ -79,4 +79,28 @@
 
 ## 思维导图
 
+### ChatMind
+**网站地址：**[https://www.chatmind.tech/](https://www.chatmind.tech/)
+**例子：**
+![产品经理的修炼](../static/images/mind/cm.png)
+
+**功能特点：**
+1. 支持种类比较多，有``AI脑图``、``AI表格``、``AI写作``、``聊天``
+2. AI脑图将思维导图的功能做了抽象，比如标签可以随意加减，默认有：高质量、详细、多层级、多分支、清晰
+3. 支持编辑markdown原始文件和其他优化修改操作
+4. 支持下载成``图片``、``svg``、``markdown``、``高清图片``
+5. 支持免费版、VIP版本，免费版本也够用了。
+
+
+### ProcessON
+**网站地址：**[https://www.processon.com/](https://www.processon.com/)
+**例子：**
+![产品经理的修炼](../static/images/mind/po.png)
+
+**功能特点：**
+1. 功能丰富、支持流程图、思维导图，有成熟的模板和社区
+2. 生成的思维导图可以直接编辑，所见即所得
+3. 下载功能支持多种格式，``图片``、``XMind``、``FreeMind``、``Word``、``Excel``、``PPT``、``高清PDF``、``SVG``、``高清图片``
+4. 必须成为vip，也不贵，一年159，永久998
+
 ## 表格生成

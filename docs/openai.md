@@ -8,6 +8,8 @@ OpenAI是一个致力于开发安全和有益的人工智能的公司，它提�
 
 你可以在[这里](https://beta.openai.com/) 登录你的账号，查看你的API密钥、使用情况、账单等信息。你也可以在[这里](https://playground.openai.com/) 使用OpenAI的Playground，一个交互式的网页工具，可以让你快速地尝试不同的语言模型和参数。
 
+[手动注册账号](https://mp.weixin.qq.com/s/CeR3pV9YzPnE7PK8vaUDGw)
+
 ## 常见错误
 
 在使用OpenAI的服务时，你可能会遇到一些错误或问题。以下是一些常见的错误和解决办法：
