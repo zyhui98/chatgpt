@@ -81,6 +81,7 @@
 
 ### ChatMind
 **网站地址：**[https://www.chatmind.tech/](https://www.chatmind.tech/)
+
 **例子：**
 ![产品经理的修炼](../static/images/mind/cm.png)
 
@@ -94,6 +95,7 @@
 
 ### ProcessON
 **网站地址：**[https://www.processon.com/](https://www.processon.com/)
+
 **例子：**
 ![产品经理的修炼](../static/images/mind/po.png)
 
